@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9bd7ee3-dc94-48cc-b9f1-020bf94d82f7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/ActionBarSherlock/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/Android-Bootstrap/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/Android-CleanArchitecture/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/Android-ObservableScrollView/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/Android-PullToRefresh/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/Android-Universal-Image-Loader/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/Android-Week-View/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/AndroidChart/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/AndroidDevTools/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/AndroidInterview-Q-A/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/AndroidSlidingUpPanel/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/AndroidSwipeLayout/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/AndroidUtilCode/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/AndroidViewAnimations/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/Android_Data/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/AppImageKit/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/AppIntro/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/Awesome-Hacking/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/Awesome-Linux-Software/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/BaseRecyclerViewAdapterHelper/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/BottomBar/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/Calligraphy/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/Cinnamon/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/CircleImageView/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/DanmakuFlameMaster/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/Eto/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/EventBus/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/ExoPlayer/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/FinanceReactNative/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/ForkHub/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/Framework7/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/FreeRDP/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/Gallery/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/GamePlay/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/Google-Play-Music-Desktop-Player-UNOFFICIAL-/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/HTML5-Desktop-Notifications/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/HackerNews-React-Native/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/HomeMirror/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/JSONExport/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/KineticJS/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/LearningNotes/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/Lepton/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/ListViewAnimations/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/MPAndroidChart/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/MacGap1/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/Material-Animations/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/MaterialDesignLibrary/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/MaterialDrawer/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/MaterialViewPager/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/Messenger-for-Desktop/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/NativeScript/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/NyaoVim/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/OS.js/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/Pedometer/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/PhotoSwipe/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/PocketHub/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/PokemonGo-DesktopMap/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/QtAV/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/ReactiveUI/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/RedisDesktopManager/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/RxAndroid/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/RxBinding/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/RxJava-Android-Samples/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/Signal-Android/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/Signal-Desktop/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/SlidingMenu/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/Squirrel.Windows/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/The-Powder-Toy/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/TrayNotification/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/UltimateRecyclerView/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/ViewPagerIndicator/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/Windows-driver-samples/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/accumulo/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/ace/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/agent/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/agera/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/airavata/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/ambari/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/amq/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/amqp/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/android-Ultra-Pull-To-Refresh/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/android-UniversalMusicPlayer/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/android-architecture/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/android-async-http/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/android-best-practices/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/android-open-project-analysis/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/android-open-project/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/android-tech-frontier/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/android-training-course-in-chinese/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/android/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/androidannotations/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/angular-seed-advanced/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/angular/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/anki/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/any23/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/appium/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/appjs/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/aries/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/atom/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/avro/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/awesome-android-ui/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/awesome-android/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/axis2/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/batch/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/batchadm/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/bigtop/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/bookkeeper/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/brackets/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/browser-laptop/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/budgie-desktop/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/butter-desktop/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/butterknife/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/bval/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/camel/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/cassandra/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/cay/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/cb/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/cheesesquare/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/chosen/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/chromeos-apk/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/chromium/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/chukwa/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/clerezza/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/cmis/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/cocoon/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/codebox/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/codec/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/collections/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/compress/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/configuration/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/connectors/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/continuum/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/cordova-plugin-purchase/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/crunch/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/crypto/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/crypton/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/csv/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/ctakes/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/curator/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/cxf/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/dagger/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/datacmns/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/datagraph/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/datajpa/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/datamongo/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/dataredis/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/datarest/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/deltaspike/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/desktop-app/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/dex-ui/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/dir/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/dirkrb/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/dirserver/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/docker/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/dockerfiles/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/drill/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/eclipse/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/electron-react-boilerplate/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/electron/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/ely/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/entesb/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/etch/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/everpad/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/falcon/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/fastlane/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/fb-mac-messenger/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/felix/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/fenix/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/flexbox-layout/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/flexx/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/flink/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/flume/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/for/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/freewall/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/fresco/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/gallium/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/geronimo/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/giraph/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/git-it-electron/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/git-it/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/gitlabhq/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/glide/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/gold-miner/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/gora/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/groovy/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/hacker-menu/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/hadoop/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/hama/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/hammerspoon/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/hbase/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/helix/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/himawaripy/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/hive/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/httpclient/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/httpcore/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/ignite/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/io/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/ion/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/iosched/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/isis/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/james/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/jbmeta/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/jclouds/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/jcr/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/jena/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/jquery-filedrop/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/jquery.pep.js/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/jspwiki/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/karaf/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/kivy/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/knox/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/konva/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/lang/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/ldap/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/leakcanary/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/legacy-homebrew/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/libgdx/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/lodash/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/logger/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/logging/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/loopback/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/lottie-android/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/lucene/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/mRemoteNG/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/mahout/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/marmotta/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/material-design-icons/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/material-dialogs/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/math/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/menubar/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/mng/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/mobile-detect.js/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/mobile/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/mozilla/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/mpc-hc/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/mrm/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/mrunit/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/myfaces/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/nativefier/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/ndm/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/node-webkit-hipster-seed/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/notification-logger/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/nteract/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/nutch/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/nw.js/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/nylas-mail/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/ode/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/ofbiz/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/oh-my-zsh/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/okhttp/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/olingo/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/oodt/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/oozie/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/open-source-android-apps/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/openFrameworks/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/openjpa/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/openmeetings/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/opennlp/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/openoffice/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/orc/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/owb/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/papyros-shell/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/parquet/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/pdfbox/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/phaser/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/phoenix/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/picasso/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/pig/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/plaid/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/pocketsphinx/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/poi/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/qpid/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/ramme/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/rave/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/react-desktop/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/react-native-auto-updater/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/react-native-nw-react-calculator/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/reactotron/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/realm-java/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/recyclerview-animators/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/reef/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/remote-desktop-clients/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/retrofit/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/river/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/robotjs/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/roo/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/screenFetch/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/sec/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/secoauth/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/select2/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/sgf/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/shadowsocks-android/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/shdp/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/shiro/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/shl/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/sis/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/skrollr/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/sling/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/smx4/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/social/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/socialfb/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/socialli/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/socialtw/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/socket.io/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/soundnode-app/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/spark/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/spr/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/sqlectron-gui/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/sqoop/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/stanbol/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/stetho/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/stf/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/storm/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/stratos/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/swarm/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/swf/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/sws/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/synapse/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/syncope/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/tajo/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/tapestry/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/tdesktop/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/texttop/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/tez/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/thrift/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/tika/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/tiles/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/tinker/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/tomee/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/turbulenz_engine/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/tuscany/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/uCrop/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/uima/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/unsemantic/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/velocity/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/vxquery/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/walk/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/weaver/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/webtorrent-desktop/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/wfarq/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/wfcore/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/wfly/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/wfmp/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/wicket/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/wink/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/wmail/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/wookie/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/ww/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/wxWidgets/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/xUtils/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/xalanc/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/xercesj/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/xmlcommons/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/yakyak/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/yeoman-app/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/yetus/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/zookeeper/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug_reports_dataset/zxing/bug-reports.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/savedModel.vec" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qnHbCuUDswRSSXJ0cuKs70fKat" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="E:/An2Sem2/Inteligenta artificiala/Laborator/GD" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="aplicatie" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\An3-Sem1\Licenta\app\aplicatie\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="aplicatie" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="aplicatie" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="aplicatie" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\An3-Sem1\Licenta\app\aplicatie\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctests in sentence_fasttext" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="aplicatie" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sentence_fasttext.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.Utils" />
+      <item itemvalue="Python.main (1)" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python tests.Doctests in sentence_fasttext" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.Utils" />
+        <item itemvalue="Python tests.Doctests in sentence_fasttext" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9bd7ee3-dc94-48cc-b9f1-020bf94d82f7" name="Default Changelist" comment="" />
+      <created>1617708502798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617708502798</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="242" y="156" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617714074167">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="242" y="156" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1768.0.1768.952@0.0.1920.1040" timestamp="1617714074167" />
+    <state x="702" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620914516385">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="702" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1768.0.1768.952@0.0.1920.1040" timestamp="1620914516385" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1622907777205">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1768.0.1768.952@0.0.1920.1040" timestamp="1622907777205" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1620928676596">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1768.0.1768.952@0.0.1920.1040" timestamp="1620928676596" />
+    <state width="1899" height="310" key="GridCell.Tab.0.bottom" timestamp="1623235425971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="310" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1768.0.1768.952@0.0.1920.1040" timestamp="1623235425971" />
+    <state width="1899" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621580074311" />
+    <state width="1899" height="310" key="GridCell.Tab.0.center" timestamp="1623235425971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="310" key="GridCell.Tab.0.center/0.0.1920.1040/-1768.0.1768.952@0.0.1920.1040" timestamp="1623235425971" />
+    <state width="1899" height="294" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621580074311" />
+    <state width="1899" height="310" key="GridCell.Tab.0.left" timestamp="1623235425970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="310" key="GridCell.Tab.0.left/0.0.1920.1040/-1768.0.1768.952@0.0.1920.1040" timestamp="1623235425970" />
+    <state width="1899" height="294" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621580074311" />
+    <state width="1899" height="310" key="GridCell.Tab.0.right" timestamp="1623235425971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="310" key="GridCell.Tab.0.right/0.0.1920.1040/-1768.0.1768.952@0.0.1920.1040" timestamp="1623235425971" />
+    <state width="1899" height="294" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621580074311" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1623181122981">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1768.0.1768.952@0.0.1920.1040" timestamp="1623181122981" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1623181122981">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1768.0.1768.952@0.0.1920.1040" timestamp="1623181122981" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1623181122981">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1768.0.1768.952@0.0.1920.1040" timestamp="1623181122981" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1623181122981">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1768.0.1768.952@0.0.1920.1040" timestamp="1623181122981" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1620481258855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1768.0.1768.952@0.0.1920.1040" timestamp="1620481258855" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1623235389522">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1768.0.1768.952@0.0.1920.1040" timestamp="1623235389522" />
+    <state x="616" y="173" width="672" height="676" key="search.everywhere.popup" timestamp="1622905169014">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="173" width="672" height="676" key="search.everywhere.popup/0.0.1920.1040/-1768.0.1768.952@0.0.1920.1040" timestamp="1622905169014" />
+  </component>
+</project>
