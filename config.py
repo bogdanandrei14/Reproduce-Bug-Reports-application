@@ -7,21 +7,9 @@ from nltk.stem import WordNetLemmatizer
 import spacy
 from spacy.matcher import DependencyMatcher
 
-# files
-
-# filename = "android-mileage#3.1.1_53"
-# filename = "gnucash-android#2.1.1_615"
-# filename = "gnucash-android#2.1.3_620"
-# filename = "gnucash-android#2.2.0_699"
-# filename = "gnucash-android#2.2.0_701"
-
-extention = ".xml"
-resultExtention = ".txt"
-# directories
-# originalDir = "data/0_original_bug_reports/" + filename + extention
-# parsedDir = "data/parsed_bug_reports/" + filename + extention
-# identifiedStepsDir = "data/identified_s2r_in_bug_reports/" + filename + extention
-# resultDir = "data/result_bug_reports/" + filename + resultExtention
+# files & extensions
+extension = ".xml"
+resultExtension = ".txt"
 originalDir = "data/0_original_bug_reports/"
 parsedDir = "data/parsed_bug_reports/"
 identifiedStepsDir = "data/identified_s2r_in_bug_reports/"

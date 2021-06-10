@@ -3,7 +3,7 @@ Bug ID: 615
 Bug title: Timestamp 0 when never exported.
 
 Steps to reproduce the behaviour
-1. Tap button to create a new book.
+1. Tap to create a new book.
 Manage books...
 
 Expected behaviour

@@ -2,16 +2,14 @@ from PyQt5 import QtCore
 from PyQt5.QtGui import QIcon, QPixmap
 from PyQt5.QtWidgets import QMainWindow, QDesktopWidget
 from PyQt5.uic import loadUi
-
-from Repository import readData, splitData, validateFilename, writeDataParsedBugReport, writeDataIdentifiedS2RSentences, \
-    writeFinalReport, isNullFilename
-from Service import identifyS2RSentences, getIndividualS2RFinal, getFinalSteps, getFinalData, getStepsToReproduceForGui
-from config import originalDir, extention, parsedDir, identifiedStepsDir, resultDir, resultExtention, dep_matcher
+from Service import Service
+from config import dep_matcher
 
 
 class MainWindow(QMainWindow):
     def __init__(self):
         super(MainWindow, self).__init__()
+        self.service = Service()
         loadUi("view/MainWindow.ui", self)
         self.initUi()
 
@@ -57,10 +55,9 @@ class MainWindow(QMainWindow):
         self.hideFeedback()
         self.progressBarAnimation()
         filename = self.lineEdit_filename.text()
-        print("file: ", filename)
-        originalFile, parsedFile, identifiedStepsFile, resultFile = self.getFilesName(filename)
-        isFileNameOK = validateFilename(originalFile)
-        nullFilename = isNullFilename(filename)
+        originalFile, parsedFile, identifiedStepsFile, resultFile = self.service.getFilesName(filename)
+        isFileNameOK = self.service.repository.validateFilename(originalFile)
+        nullFilename = self.service.repository.isNullFilename(filename)
         if not nullFilename:
             message = "Numele fisierului introdus nu poate fi nul!"
             self.incorrectExecution(message)
@@ -69,46 +66,34 @@ class MainWindow(QMainWindow):
             message = "Numele fisierului introdus este incorect!"
             self.incorrectExecution(message)
             return
-        idData, titleData, descriptionData = readData(originalFile)
-        print("ID GUI: ", idData)
-        print("TITLE GUI: ", titleData)
-        paragraphs = splitData(descriptionData)
-        print("PARAGRAPHS GUI: ", paragraphs)
-        if writeDataParsedBugReport(parsedFile, idData, titleData, paragraphs):
+        idData, titleData, descriptionData = self.service.repository.readData(originalFile)
+        paragraphs = self.service.repository.splitData(descriptionData)
+        if self.service.repository.writeDataParsedBugReport(parsedFile, idData, titleData, paragraphs):
             self.correctParsedReportExecution()
         else:
             self.incorrectParsedReportExecution()
             message = "Eroare la executie"
             self.incorrectExecution(message)
             return
-        print("PRIMA SCRIERE GUI")
-        s2rsentences, keywords = identifyS2RSentences(paragraphs)
-        print("S2RSENTENCES GUI: ", s2rsentences)
-        print("KEYWORDS GUI: ", keywords)
-        if writeDataIdentifiedS2RSentences(identifiedStepsFile, idData, titleData, paragraphs, s2rsentences):
+        s2rsentences, keywords = self.service.identifyS2RSentences(paragraphs)
+        if self.service.repository.writeDataIdentifiedS2RSentences(identifiedStepsFile, idData, titleData, paragraphs, s2rsentences):
             self.correctStepsReportExecution()
         else:
             self.incorrectStepsReportExecution()
             message = "Eroare la executie"
             self.incorrectExecution(message)
             return
-        print("A DOUA SCRIERE")
-        individualSteps = getIndividualS2RFinal(s2rsentences, keywords)
-        print("INDIVIDUAL STEPS GUI: ", individualSteps)
-        finalSteps = getFinalSteps(individualSteps, dep_matcher, keywords)
-        print("FINAL STEPS GUI: ", finalSteps)
-        final_id_title_data, final_description_data = getFinalData(idData, titleData, paragraphs, individualSteps, finalSteps)
-        print("FINAL ID TITLE GUI: ", final_id_title_data)
-        print("FINAL DESCRIPTION GUI: ", final_description_data)
-        if writeFinalReport(resultFile, final_id_title_data, final_description_data):
+        individualSteps = self.service.getIndividualS2RFinal(s2rsentences, keywords)
+        finalSteps = self.service.getFinalSteps(individualSteps, dep_matcher, keywords)
+        final_id_title_data, final_description_data = self.service.getFinalData(idData, titleData, paragraphs, individualSteps, finalSteps)
+        if self.service.repository.writeFinalReport(resultFile, final_id_title_data, final_description_data):
             self.correctFinalReportExecution()
         else:
             self.incorrectFinaldReportExecution()
             message = "Eroare la executie"
             self.incorrectExecution(message)
             return
-        print("ULTIMA SCRIERE")
-        uiSteps = getStepsToReproduceForGui(finalSteps)
+        uiSteps = self.service.getStepsToReproduceForGui(finalSteps)
         # give feedback for succesful execution
         self.verifyResultLabel.setVisible(True)
         self.verifyResultIcon.setVisible(True)
@@ -116,13 +101,9 @@ class MainWindow(QMainWindow):
         self.verifyResultLabel.setStyleSheet("color: #ffffff")
         self.verifyResultIcon.setPixmap(QPixmap("icons/correctIcon.png"))
         self.verifyResultIcon.setScaledContents(True)
-        print("DUPA ICONITA GUI OK")
         # display steps to reproduce and generated bug report
         self.label_stepsToReproduce.setText("\n".join(uiSteps))
-        print("DUPA PRINT PASI")
         self.importBugReport(resultFile)
-        print("DUPA PRINT BUG REPORT GUI")
-
 
     def correctParsedReportExecution(self):
         """
@@ -229,23 +210,7 @@ class MainWindow(QMainWindow):
         if filename.endswith('.txt'):
             with open(filename, 'r') as f:
                 data = f.readlines()
-                print("GUI DATA: ", data)
                 self.label_bugReport.setText("".join(data))
-
-    def getFilesName(self, filename):
-        """
-        Create name of files base on input from user
-        :param filename: string - file name
-        :return: originalFile: string - original bug report file
-                parsedFile: string - splitted file by paragraphs
-                identifiedStepsFile: string - file with identified step to reproduce sentences
-                resultFile: string - final bug report file
-        """
-        originalFile = originalDir + str(filename) + extention
-        parsedFile = parsedDir + str(filename) + extention
-        identifiedStepsFile = identifiedStepsDir + str(filename) + extention
-        resultFile = resultDir + str(filename) + resultExtention
-        return originalFile, parsedFile, identifiedStepsFile, resultFile
 
     def refreshResultArea(self):
         """
